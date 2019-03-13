@@ -39,3 +39,4 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+src/TipCalc.UWP/TipCalc.UWP_TemporaryKey.pfx
